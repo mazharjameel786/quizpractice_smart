@@ -1,0 +1,2 @@
+hello
+this is a process to intilize git repository from smartgit.
