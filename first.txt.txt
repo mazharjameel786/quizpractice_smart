@@ -1,2 +1,3 @@
 hello
 this is a process to intilize git repository from smartgit.
+have you any suggestion about the sequence of modules add in this project.
